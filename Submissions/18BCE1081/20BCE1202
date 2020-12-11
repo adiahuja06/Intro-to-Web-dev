@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+img{
+    position: relative;
+    display:block;
+    width: 100%;
+}
+span{
+    display: inline-block;
+    margin-right: 248px;
+    color: white;
+}
+.new-arrival{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.rotateimg180 {
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  }
+span.bor{
+    border-bottom: 2px solid black;
+    color:black;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+}
+span.HOME{
+    border-bottom: 2px solid red;
+}
+span.ABOUT-US{
+    border-bottom: 2px solid red;
+}
+span.MERCHANDISE{
+    border-bottom: 2px solid red;
+}
+span.nav1{
+    display: inline-block;
+    padding: 5px;
+    margin-right: 150px;
+    background-color: silver;
+    font-family: 'Montserrat', sans-serif;
+    border: 2px solid red;
+    border-radius: 6px;
+}
+
+h1.bor{
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+div.left{
+    width:350px;
+    display: inline-block;
+    background-color:#FE4557;
+    margin-left: 127px;
+    margin-right: 50px;
+   
+}
+img.left-image{
+    margin-top: 20px;
+}
+img.middle-image{
+    margin-top: 20px;
+}
+img.right-image{
+    margin-top: 20px;
+}
+div.middle{
+    width:350px;
+    display: inline-block;
+    background-color: #393F3E;
+    margin-right: 50px;
+    
+}
+div.right{
+    width:250px;
+    display: inline-block;
+    background-color:#FE4557;
+    
+}
+.image{
+    position: relative;
+    width: 100%;
+}
+
+ h1.image-text{
+    position: absolute;
+    top: 200px;
+    left: 1000px;
+    width: 100%;
+    color: black
+    font-size: 64px;
+}
+
+h1 span{
+    color: black;
+}
+
+
+h2.hope{
+    color: #FE4557;
+}
+
+section.description{
+    background-color: #bcbcbc;
+}
+
+
+p.a{
+    color: white;
+}
+
+button.ab{
+    background-color:  #393F3E;
+    margin-bottom: 20px;
+    color: white;
+}
+
+button.abc{
+    background-color: #FE4557;
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+
+h2.fashion {
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 42px;
+    max-width: 600px;
+    position: relative;
+    margin-bottom: 20px;
+  }
+h2:before {
+    content: "";
+    display: block;
+    width: 157px;
+    height: 2px;
+    background:#BCBCBC;
+    left: 0;
+    top: 50%;
+    position: absolute;
+  }
+  
+  h2:after {
+    content: "";
+    display: block;
+    width: 157px;
+    height: 2px;
+    background: #BCBCBC;
+    right: 0;
+    top: 50%;
+    position: absolute;
+  }
+img.image-2{
+    width:400px;
+    display: inline-block
+
+}
+
+div.last{
+    display: inline-block;
+    color:black;
+    background-color: #FE4557;
+}
+h1.outfit{
+    display: inline-block;
+}
+
+p.g{
+    display: inline;
+}
+h1.z{
+    display: inline;
+}
+img.fb{
+    width:40px;
+    display: inline-block;
+    margin:20px;
+
+}
+img.insta{
+    width:40px;
+    display: inline-block;
+    margin:20px;
+}
+img.linkden{
+    width:40px;
+    display: inline-block;
+    margin:20px;
+}
+footer{
+    background-color: #BCBCBC;
+    border-right: 21px solid #31414C;
+}
+section.image{
+    border-right: 21px solid #31414C;
+}
+section.description{
+    border-right:21px solid #FFC107;
+}
+section.last-sec{
+    border-right: 21px solid #31414C;
+}
